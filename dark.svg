@@ -221,28 +221,11 @@
         I'm Aryansinh Thakor
       </text>
 
-      <!-- typing role line -->
+      <!-- role line -->
       <g font-size="16" font-weight="600" fill="#22D3EE">
-        <text x="518" y="180">&gt;&#160;</text>
-        <text x="536" y="180" opacity="0">
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.85;1" begin="1.4s" dur="4.5s" repeatCount="indefinite"/>
-          Frontend Engineer
-        </text>
-        <text x="536" y="180" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.001;0.02;0.85;1" begin="5.9s" dur="4.5s" repeatCount="indefinite"/>
-          Full Stack Developer
-        </text>
-        <text x="536" y="180" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.001;0.02;0.85;1" begin="10.4s" dur="4.5s" repeatCount="indefinite"/>
-          Open Source Contributor
-        </text>
-        <text x="536" y="180" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.001;0.02;0.85;1" begin="14.9s" dur="4.5s" repeatCount="indefinite"/>
-          AI Enthusiast
-        </text>
-        <rect x="536" y="168" width="7" height="15" fill="#22D3EE">
+        <text x="518" y="180">&gt;&#160;Software Developer</text>
+        <rect x="722" y="168" width="7" height="15" fill="#22D3EE">
           <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.55;1;1" dur="1s" repeatCount="indefinite"/>
-          <animate attributeName="x" values="536;536;536;672;672;672;717;717;717;660;660" dur="19.4s" repeatCount="indefinite"/>
         </rect>
       </g>
 
