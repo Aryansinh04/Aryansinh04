@@ -1,6 +1,6 @@
 <img src="dark.svg" alt="Aryansinh Thakor" width="100%" />
-# 💫 About Me:
-🔭 Building modern web applications with **Java**.<br><br>🌱 Exploring **Full-Stack Development** and scalable software solutions.<br><br>👯 Open to collaborating on **Open Source** and **Web Development** projects.<br><br>💬 Ask me about **Java**, **Web Development**, and **Software Engineering**.<br><br>⚡ Always learning, always building. 🚀<br>
+ 💫 About Me:
+🔭 Building modern web applications with Java.<br><br>🌱 Exploring Full-Stack Development and scalable software solutions.<br><br>👯 Open to collaborating on Open Source and Web Development projects.<br><br>⚡ Always learning, always building. 🚀<br>
 
 
 ## 🌐 Socials:
